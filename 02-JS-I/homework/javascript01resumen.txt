@@ -1,0 +1,23 @@
+JAVASCRIPT 01
+
+Variables
+es asignar una letra o palabra un valor, 
+ej:
+x=10; 
+nombre = "sergio";
+y = 45;
+
+en JAVASCRIPT  Variable lo abreviamos a "var" para trabajar.
+ej:
+var nombre= "jesus"
+var apellido="aguilar"
+var x=10;
+etc.
+
+Strings
+
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+
